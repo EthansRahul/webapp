@@ -52,8 +52,9 @@
 <div class="jumbotron">
     <div class="container">
         <h1>Hello</h1>
-        <p> I am Rahul Garg.This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
-        <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
+        <p> I am Rahul Garg.This is a official Website for TCS Cricket Team.</p>
+        <!--<p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>-->
+        <img src="TCS_Cricket.jpeg" alt="TCS Team" style="width:500px;height:600px;"> 
     </div>
 </div>
 
