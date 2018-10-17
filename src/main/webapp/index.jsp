@@ -54,7 +54,7 @@
         <h1>Hello</h1>
         <p> I am Rahul Garg.This is a official Website for TCS Cricket Team.</p>
         <!--<p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>-->
-        <img src="TCS_Cricket.jpeg" alt="TCS Team" style="width:500px;height:600px;"> 
+        <img src="TCS_Cricket.jpeg" alt="TCS Team" style="width:50px;height:60px;"> 
     </div>
 </div>
 
